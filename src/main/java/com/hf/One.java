@@ -11,5 +11,8 @@ public class One {
         System.out.println("我fix啪的一声添加了一行");
 
         System.out.println("刚创建好远程仓库，又修改了点，修改完push上去");
+        
+        System.out.println("没想到吧，我在github端也能修改代码，就等你pull");
+
     }
 }
