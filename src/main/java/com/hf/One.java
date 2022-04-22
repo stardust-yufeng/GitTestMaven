@@ -9,5 +9,7 @@ public class One {
         System.out.println("我master这在添加了一行代码，啪！");
 
         System.out.println("我fix啪的一声添加了一行");
+
+        System.out.println("刚创建好远程仓库，又修改了点，修改完push上去");
     }
 }
